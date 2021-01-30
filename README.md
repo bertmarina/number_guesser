@@ -7,3 +7,4 @@ The expected output is a game where there is a human guess and a computer guess.
   
 ## Project Goals 
 The HTML and CSS part has been already provided. Also, some part of the JS file was provided.  
+The file to complete was **script.js**.
